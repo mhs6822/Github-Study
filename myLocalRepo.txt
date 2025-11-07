@@ -1,0 +1,4 @@
+Hello
+Moon
+It's the push example from local to remote
+It's first time to push with original git.
